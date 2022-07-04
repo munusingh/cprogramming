@@ -1,0 +1,31 @@
+
+Storing the details of Employee 1
+
+================================================
+
+Details of the 5 Employees
+Details of the 1 Employee
+Id of the Employee is : 68665
+Name of the Employee is :munu
+Date of Joining of the Employee is :20 1 2011
+Salary : 4469797888.00
+Details of the 2 Employee
+Id of the Employee is : 4666
+Name of the Employee is :sinu
+Date of Joining of the Employee is :2 1 2011
+Salary : 45216.00
+Details of the 3 Employee
+Id of the Employee is : 766
+Name of the Employee is :kunia
+Date of Joining of the Employee is :2 1 2014
+Salary : 55444.00
+Details of the 4 Employee
+Id of the Employee is : 646
+Name of the Employee is :munmun
+Date of Joining of the Employee is :1 2 2011
+Salary : 46645.00
+Details of the 5 Employee
+Id of the Employee is : 5466
+Name of the Employee is :alia
+Date of Joining of the Employee is :1 5 2011
+Salary : 5412255.00
